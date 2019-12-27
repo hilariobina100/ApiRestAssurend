@@ -2,15 +2,17 @@ package classesAuxiliares;
 
 public class VariaveisEstaticas {
 	
-	private static Integer CONTA_CRIADA;
+	private static String CONTA_CRIADA;
 
-	public static Integer getCONTA_CRIADA() {
+	public static String getCONTA_CRIADA() {
 		return CONTA_CRIADA;
 	}
 
-	public static void setCONTA_CRIADA(Integer cONTA_CRIADA) {
+	public static void setCONTA_CRIADA(String cONTA_CRIADA) {
 		CONTA_CRIADA = cONTA_CRIADA;
 	}
+
+	
 	
 	
 

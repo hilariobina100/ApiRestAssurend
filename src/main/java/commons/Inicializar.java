@@ -6,7 +6,7 @@ import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.builder.ResponseSpecBuilder;
 
-public class BaseTeste implements Config {
+public class Inicializar implements Config {
 	
 	
 	public static void setup() {

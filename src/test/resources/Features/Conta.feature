@@ -4,7 +4,7 @@
 #Encoding: UTF-8
 Funcionalidade: Conta
 
-  @Teste01 @webSAD
+  @Teste01 @TesteApi
   Cenario: 01 - Criar Nova Conta com Sucesso
     Dado que estou logado no site do Senhor Barriga
     Quando crio uma nova conta
