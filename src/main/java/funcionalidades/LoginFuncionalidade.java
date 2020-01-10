@@ -16,8 +16,8 @@ public class LoginFuncionalidade extends Inicializar {
 
 	public Map<String, String> dadosAutenticacao() {
 		Map<String, String> login = new HashMap<String, String>();
-		login.put("email", "wagner@aquino");
-		login.put("senha", "123456");
+		login.put("email", "bina@bina");
+		login.put("senha", "bina");
 
 		return login;
 	}
