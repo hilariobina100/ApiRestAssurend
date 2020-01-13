@@ -10,6 +10,6 @@ public interface Config {
 	
 	ContentType APP_CONTENT_TYPE = ContentType.JSON;
 	
-	Long MAX_TIMEOUT = 10000L;
+	Long MAX_TIMEOUT = 15000L;
 
 }

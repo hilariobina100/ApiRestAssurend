@@ -2,9 +2,6 @@ package funcionalidades;
 
 import static io.restassured.RestAssured.given;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import classesAuxiliares.VariaveisEstaticas;
 import commons.Inicializar;
 
