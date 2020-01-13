@@ -12,7 +12,7 @@ import cucumber.api.junit.Cucumber;
 				".//src//test//resources//" }, glue = { "steps", "configuration", "commons" },
 
 
-		tags = { "" })
+		tags = { "Teste" })
 
 
 

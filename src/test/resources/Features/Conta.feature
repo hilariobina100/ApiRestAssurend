@@ -4,13 +4,13 @@
 #Encoding: UTF-8
 Funcionalidade: Conta
 
-  @Teste01 
+  @Teste 
   Cenario: 01 - Criar Nova Conta com Sucesso
     Dado que estou logado no site do Senhor Barriga
     Quando crio uma nova conta
     Entao deve ser retornardo o valor "201"
     
-  @Teste02
+  @Teste
   Cenario: 02 - Alterar Conta com sucesso
     Dado que estou logado no site do Senhor Barriga
     Quando altero uma conta ja criada
