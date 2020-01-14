@@ -15,6 +15,6 @@ Funcionalidade: Conta
   Cenario: 02 - Alterar Conta com sucesso
     Dado que estou logado no site do Senhor Barriga
     Quando altero uma conta ja criada
-    Entao deve ser retornardo o valor "201"  
+    Entao deve ser retornardo o valor "200"  
     
     
